@@ -1,9 +1,8 @@
 # Getting Started with Python for Earth Sciences
-### By [Kriti Bhargava](https://cisess.umd.edu/meet-our-scientists/kriti-bhargava/) and [Eviatar Bach](http://eviatarbach.com/)
+### By [Eviatar Bach](http://eviatarbach.com/)
 ---
 
-A four hour crash course in Python focusing on reading and visualizing data-sets used in Earth sciences.
-The material here has been modified from the courses taught earlier by [Rebekah Esmaili](http://www.rebekahesmaili.com). 
+A four hour crash course in Python focusing on reading and visualizing data-sets used in Earth sciences. The material here has been modified from the courses taught earlier by [Rebekah Esmaili](http://www.rebekahesmaili.com), [Kriti Bhargava](https://cisess.umd.edu/meet-our-scientists/kriti-bhargava/), and Eviatar Bach.
 
 ---
 
