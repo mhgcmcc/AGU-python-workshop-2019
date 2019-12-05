@@ -26,9 +26,9 @@ This course covers the following:
 ---
 <b> Installation requirement </b>
 * To run this you need Anaconda installed on the computer
-* Installation instructions are provided for Mac, Windows, and Linux [here](https://github.com/modern-tools-workshop/ncep-workshop/tree/master/Installation_instructions).
+* Installation instructions are provided for Linux, Mac, and Windows [here](https://github.com/modern-tools-workshop/AGU-python-workshop-2019/tree/master/installation_instructions).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/NCWCP-python-workshop/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/AGU-python-workshop-2019/master)
 
 ---
 ## Resources
