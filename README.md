@@ -8,23 +8,16 @@ A four hour crash course in Python focusing on reading and visualizing data-sets
 
 This course covers the following:
 
-1. Basics of Jupyter Notebooks and NumPy.
-2. Reading tabular files using pandas, basic plotting using matplotlib and reading NetCDF files.
-3. xarray
-4. Geopgraphical mapping plotiing using cartopy
-
-<b> Packages covered include </b>:
-
-1. [NumPy](https://numpy.org/)
-2. [pandas](https://pandas.pydata.org/)
-3. [Matplotlib](https://matplotlib.org/)
-5. [xarray](http://xarray.pydata.org/en/stable/)
-6. [Cartopy](https://pypi.org/project/Cartopy/)
-7. [pyresample](https://pyresample.readthedocs.io/en/latest/)
+1. Basics of Jupyter Notebooks and [NumPy](https://numpy.org/)
+2. Reading tabular files using [pandas](https://pandas.pydata.org/), basic plotting using [Matplotlib](https://matplotlib.org/)
+3. Reading NetCDF files and doing operations on N-dimensional arrays using [xarray](http://xarray.pydata.org/en/stable/)
+4. Geographical plotting using [Cartopy](https://pypi.org/project/Cartopy/) and regridding using [pyresample](https://pyresample.readthedocs.io/en/latest/)
+5. Basic use of Git and [Panoply](https://www.giss.nasa.gov/tools/panoply/)
 
 ---
-<b>Installation requirement</b>
-* To run this you need Anaconda installed on the computer
-* Installation instructions are provided for Linux, Mac, and Windows [here](https://github.com/modern-tools-workshop/AGU-python-workshop-2019/tree/master/installation_instructions).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/AGU-python-workshop-2019/master)
+**Installation requirements:**
+
+To run this you need Anaconda installed on the computer. Installation instructions are provided for Linux, Mac, and Windows [here](https://github.com/modern-tools-workshop/AGU-python-workshop-2019/tree/master/installation_instructions).
+
+Alteratively, try it in the browser without installation using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/AGU-python-workshop-2019/master)
