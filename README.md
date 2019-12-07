@@ -1,5 +1,5 @@
 # Getting Started with Python for Earth Sciences
-### By [Eviatar Bach](http://eviatarbach.com/), presented at AGU Fall Meeting 2019
+### Presented by [Eviatar Bach](http://eviatarbach.com/) at AGU Fall Meeting 2019, content by [Rebekah Esmaili](http://www.rebekahesmaili.com), [Kriti Bhargava](https://cisess.umd.edu/meet-our-scientists/kriti-bhargava/), and Eviatar Bach
 
 ---
 
